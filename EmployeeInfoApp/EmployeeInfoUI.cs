@@ -334,6 +334,10 @@ namespace EmployeeInfoApp
             {
                 MessageBox.Show("Item is not deleted");
             }
+            nameTextBox.Clear();
+            addresstextBox.Clear();
+            emailTextBox.Clear();
+            sallaryTextBox.Clear();
 
 
 
